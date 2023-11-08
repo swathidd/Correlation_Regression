@@ -1,4 +1,4 @@
-# Correlation and regression for data analysis
+# EX-03 Correlation and regression for data analysis
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
@@ -23,7 +23,10 @@ If y represents the dependent variable and x the independent variable, this rela
 
 ![image](https://github.com/ramjan1729/Correlation_Regression/assets/103921593/9eb48cbf-8ca3-4cd9-8440-ff45fd98333e)
 
+# Output:
+![image](https://github.com/swathidd/Correlation_Regression/assets/121300272/6cb1f01a-87b8-4ff9-880a-1ff79c6ae4d5)
 
-# Result
+# Result:
+The correlatiom and regression for data analysis of object from feeder using probability distribution are calculated
 
-# Output 
+
